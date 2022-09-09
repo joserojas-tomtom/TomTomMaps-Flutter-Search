@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 43.2 (39069) - http://www.bohemiancoding.com/sketch -->
+    <title>svg/ic_map_poi_019</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Assets-white-32x32" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="ic_map_poi_019" fill="#ffffff">
+            <polygon id="Fill-2" points="22 21 24 21 24 16 22 16"></polygon>
+            <path d="M11.5,13.1924 C10.622,13.1924 9.909,12.4474 9.909,11.5254 C9.909,10.6054 10.622,9.8594 11.5,9.8594 C12.379,9.8594 13.091,10.6054 13.091,11.5254 C13.091,12.4474 12.379,13.1924 11.5,13.1924 M11.541,7.9384 C9.551,7.9384 8,9.4914 8,11.7254 L8,20.9754 L15,20.9754 L15,11.7254 C15,9.4914 13.531,7.9384 11.541,7.9384" id="Fill-3"></path>
+            <path d="M23.793,5.7842 L23.041,5.9942 L23.808,8.7322 L24.56,8.5222 C25.116,8.3672 25.396,7.6272 25.185,6.8712 C24.973,6.1152 24.35,5.6292 23.793,5.7842" id="Fill-5"></path>
+            <polygon id="Fill-7" points="16 7.9648 16.766 10.7028 18.526 10.2098 17.76 7.4718"></polygon>
+            <polygon id="Fill-9" points="19.5195 6.9795 20.2865 9.7175 22.0465 9.2255 21.2805 6.4875"></polygon>
+            <path d="M26,25 C26,23.895 25.105,23 24,23 L8,23 C6.896,23 6,23.895 6,25 L26,25 Z" id="Fill-11"></path>
+        </g>
+    </g>
+</svg>

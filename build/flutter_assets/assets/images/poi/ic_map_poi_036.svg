@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 43.2 (39069) - http://www.bohemiancoding.com/sketch -->
+    <title>svg/ic_map_poi_036</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Assets-white-32x32" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="ic_map_poi_036" fill="#ffffff">
+            <path d="M20,9.9697 C20,12.1787 18.209,13.9697 16,13.9697 C13.791,13.9697 12,12.1787 12,9.9697 C12,7.7607 13.791,5.9697 16,5.9697 C18.209,5.9697 20,7.7607 20,9.9697" id="Fill-2"></path>
+            <path d="M16,15.9668 C14.906,15.9668 13.883,15.6678 13,15.1548 L13,25.8598 C13,26.0318 13.087,26.1838 13.22,26.2748 C13.249,26.2888 13.277,26.3058 13.307,26.3208 C14.117,26.7318 15.03,26.9668 16,26.9668 C16.969,26.9668 17.882,26.7318 18.692,26.3208 C18.722,26.3058 18.75,26.2888 18.779,26.2748 C18.912,26.1838 19,26.0318 19,25.8598 L19,15.1548 C18.116,15.6678 17.093,15.9668 16,15.9668" id="Fill-4"></path>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/rojasj/repositories/flutter_autocomplete/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values-he/values-he.xml",
+            "map": [
+                {
+                    "source": "/Users/rojasj/.gradle/caches/transforms-3/fb401f00b16b52d989a8f9983a5ba047/transformed/jetified-android-sdk-9.5.2/res/values-he/values-he.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "55,177,266,382,485,637,751",
+                        "endColumns": "121,88,115,102,151,113,136",
+                        "endOffsets": "172,261,377,480,632,746,883"
+                    }
+                }
+            ]
+        }
+    ]
+}

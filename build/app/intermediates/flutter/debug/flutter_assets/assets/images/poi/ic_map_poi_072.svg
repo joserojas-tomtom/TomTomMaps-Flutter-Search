@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 43.2 (39069) - http://www.bohemiancoding.com/sketch -->
+    <title>svg/ic_map_poi_072</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Assets-white-32x32" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="ic_map_poi_072" fill="#ffffff">
+            <path d="M16,10 C18.206,10 20,8.206 20,6 L12,6 C12,8.206 13.794,10 16,10" id="Fill-2"></path>
+            <path d="M16,22 C13.794,22 12,23.794 12,26 L20,26 C20,23.794 18.206,22 16,22" id="Fill-4"></path>
+            <path d="M22,17 L17.73,17 C17.384,17.597 16.739,18 16,18 C15.261,18 14.616,17.597 14.269,17 L10,17 C9.447,17 9,16.553 9,16 C9,15.447 9.447,15 10,15 L14.269,15 C14.616,14.403 15.261,14 16,14 C16.739,14 17.384,14.403 17.73,15 L22,15 C22.553,15 23,15.447 23,16 C23,16.553 22.553,17 22,17 M22,6 C22,9.309 19.309,12 16,12 C12.691,12 10,9.309 10,6 C8.899,6 8,6.9 8,8 L8,24 C8,25.1 8.899,26 10,26 C10,22.691 12.691,20 16,20 C19.309,20 22,22.691 22,26 C23.1,26 24,25.1 24,24 L24,8 C24,6.9 23.1,6 22,6" id="Fill-6"></path>
+        </g>
+    </g>
+</svg>

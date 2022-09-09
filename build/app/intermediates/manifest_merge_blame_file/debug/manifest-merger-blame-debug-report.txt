@@ -1,0 +1,127 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.flutter_autocomplete"
+4    android:versionCode="1"
+5    android:versionName="1.0.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="20"
+9        android:targetSdkVersion="31" />
+10    <!--
+11         The INTERNET permission is required for development. Specifically,
+12         the Flutter tool needs it to communicate with the running application
+13         to allow setting breakpoints, to provide hot reload, etc.
+14    -->
+15    <uses-permission android:name="android.permission.INTERNET" />
+15-->/Users/rojasj/repositories/flutter_autocomplete/android/app/src/main/AndroidManifest.xml:2:2-64
+15-->/Users/rojasj/repositories/flutter_autocomplete/android/app/src/main/AndroidManifest.xml:2:19-61
+16    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+16-->/Users/rojasj/repositories/flutter_autocomplete/android/app/src/main/AndroidManifest.xml:3:2-78
+16-->/Users/rojasj/repositories/flutter_autocomplete/android/app/src/main/AndroidManifest.xml:3:19-75
+17
+18    <uses-feature
+18-->[org.maplibre.gl:android-sdk:9.5.2] /Users/rojasj/.gradle/caches/transforms-3/fb401f00b16b52d989a8f9983a5ba047/transformed/jetified-android-sdk-9.5.2/AndroidManifest.xml:9:5-11:35
+19        android:glEsVersion="0x00020000"
+19-->[org.maplibre.gl:android-sdk:9.5.2] /Users/rojasj/.gradle/caches/transforms-3/fb401f00b16b52d989a8f9983a5ba047/transformed/jetified-android-sdk-9.5.2/AndroidManifest.xml:10:9-41
+20        android:required="true" />
+20-->[org.maplibre.gl:android-sdk:9.5.2] /Users/rojasj/.gradle/caches/transforms-3/fb401f00b16b52d989a8f9983a5ba047/transformed/jetified-android-sdk-9.5.2/AndroidManifest.xml:11:9-32
+21    <uses-feature
+21-->[org.maplibre.gl:android-sdk:9.5.2] /Users/rojasj/.gradle/caches/transforms-3/fb401f00b16b52d989a8f9983a5ba047/transformed/jetified-android-sdk-9.5.2/AndroidManifest.xml:12:5-14:36
+22        android:name="android.hardware.wifi"
+22-->[org.maplibre.gl:android-sdk:9.5.2] /Users/rojasj/.gradle/caches/transforms-3/fb401f00b16b52d989a8f9983a5ba047/transformed/jetified-android-sdk-9.5.2/AndroidManifest.xml:13:9-45
+23        android:required="false" />
+23-->[org.maplibre.gl:android-sdk:9.5.2] /Users/rojasj/.gradle/caches/transforms-3/fb401f00b16b52d989a8f9983a5ba047/transformed/jetified-android-sdk-9.5.2/AndroidManifest.xml:14:9-33
+24
+25    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+25-->[org.maplibre.gl:android-sdk:9.5.2] /Users/rojasj/.gradle/caches/transforms-3/fb401f00b16b52d989a8f9983a5ba047/transformed/jetified-android-sdk-9.5.2/AndroidManifest.xml:17:5-79
+25-->[org.maplibre.gl:android-sdk:9.5.2] /Users/rojasj/.gradle/caches/transforms-3/fb401f00b16b52d989a8f9983a5ba047/transformed/jetified-android-sdk-9.5.2/AndroidManifest.xml:17:22-76
+26    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+26-->[org.maplibre.gl:android-sdk:9.5.2] /Users/rojasj/.gradle/caches/transforms-3/fb401f00b16b52d989a8f9983a5ba047/transformed/jetified-android-sdk-9.5.2/AndroidManifest.xml:18:5-76
+26-->[org.maplibre.gl:android-sdk:9.5.2] /Users/rojasj/.gradle/caches/transforms-3/fb401f00b16b52d989a8f9983a5ba047/transformed/jetified-android-sdk-9.5.2/AndroidManifest.xml:18:22-73
+27    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+27-->[org.maplibre.gl:android-sdk:9.5.2] /Users/rojasj/.gradle/caches/transforms-3/fb401f00b16b52d989a8f9983a5ba047/transformed/jetified-android-sdk-9.5.2/AndroidManifest.xml:19:5-79
+27-->[org.maplibre.gl:android-sdk:9.5.2] /Users/rojasj/.gradle/caches/transforms-3/fb401f00b16b52d989a8f9983a5ba047/transformed/jetified-android-sdk-9.5.2/AndroidManifest.xml:19:22-76
+28
+29    <application
+30        android:name="android.app.Application"
+31        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+31-->[androidx.core:core:1.6.0] /Users/rojasj/.gradle/caches/transforms-3/acbce933e4b464a5224ed377a62db1f5/transformed/core-1.6.0/AndroidManifest.xml:24:18-86
+32        android:debuggable="true"
+33        android:icon="@mipmap/ic_launcher"
+34        android:label="flutter_autocomplete" >
+35        <activity
+36            android:name="com.example.flutter_autocomplete.MainActivity"
+37            android:configChanges="orientation|keyboardHidden|keyboard|screenSize|smallestScreenSize|locale|layoutDirection|fontScale|screenLayout|density|uiMode"
+38            android:exported="true"
+39            android:hardwareAccelerated="true"
+40            android:launchMode="singleTop"
+41            android:theme="@style/LaunchTheme"
+42            android:windowSoftInputMode="adjustResize" >
+43
+44            <!--
+45			Specifies an Android theme to apply to this Activity as soon as
+46			the Android process has started. This theme is visible to the user
+47			while the Flutter UI initializes. After that, this theme continues
+48			to determine the Window background behind the Flutter UI.
+49            -->
+50            <meta-data
+51                android:name="io.flutter.embedding.android.NormalTheme"
+52                android:resource="@style/NormalTheme" />
+53
+54            <intent-filter>
+55                <action android:name="android.intent.action.MAIN" />
+56
+57                <category android:name="android.intent.category.LAUNCHER" />
+58            </intent-filter>
+59        </activity>
+60        <!--
+61		Don't delete the meta-data below.
+62		This is used by the Flutter tool to generate GeneratedPluginRegistrant.java
+63        -->
+64        <meta-data
+65            android:name="flutterEmbedding"
+66            android:value="2" />
+67
+68        <uses-library
+68-->[androidx.window:window:1.0.0-beta04] /Users/rojasj/.gradle/caches/transforms-3/49bc944d29f70d45aa5add8e43e3247e/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:25:9-27:40
+69            android:name="androidx.window.extensions"
+69-->[androidx.window:window:1.0.0-beta04] /Users/rojasj/.gradle/caches/transforms-3/49bc944d29f70d45aa5add8e43e3247e/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:26:13-54
+70            android:required="false" />
+70-->[androidx.window:window:1.0.0-beta04] /Users/rojasj/.gradle/caches/transforms-3/49bc944d29f70d45aa5add8e43e3247e/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:27:13-37
+71        <uses-library
+71-->[androidx.window:window:1.0.0-beta04] /Users/rojasj/.gradle/caches/transforms-3/49bc944d29f70d45aa5add8e43e3247e/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:28:9-30:40
+72            android:name="androidx.window.sidecar"
+72-->[androidx.window:window:1.0.0-beta04] /Users/rojasj/.gradle/caches/transforms-3/49bc944d29f70d45aa5add8e43e3247e/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:29:13-51
+73            android:required="false" /> <!-- Offline download region picker activity -->
+73-->[androidx.window:window:1.0.0-beta04] /Users/rojasj/.gradle/caches/transforms-3/49bc944d29f70d45aa5add8e43e3247e/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:30:13-37
+74        <activity
+74-->[org.maplibre.gl:android-plugin-offline-v9:1.0.0] /Users/rojasj/.gradle/caches/transforms-3/04fcab9532b7e0044ffd36ca8ce5490c/transformed/jetified-android-plugin-offline-v9-1.0.0/AndroidManifest.xml:12:9-14:125
+75            android:name="com.mapbox.mapboxsdk.plugins.offline.ui.OfflineActivity"
+75-->[org.maplibre.gl:android-plugin-offline-v9:1.0.0] /Users/rojasj/.gradle/caches/transforms-3/04fcab9532b7e0044ffd36ca8ce5490c/transformed/jetified-android-plugin-offline-v9-1.0.0/AndroidManifest.xml:13:13-83
+76            android:configChanges="keyboard|keyboardHidden|orientation|screenLayout|uiMode|screenSize|smallestScreenSize" /> <!-- Offline download service -->
+76-->[org.maplibre.gl:android-plugin-offline-v9:1.0.0] /Users/rojasj/.gradle/caches/transforms-3/04fcab9532b7e0044ffd36ca8ce5490c/transformed/jetified-android-plugin-offline-v9-1.0.0/AndroidManifest.xml:14:13-122
+77        <service
+77-->[org.maplibre.gl:android-plugin-offline-v9:1.0.0] /Users/rojasj/.gradle/caches/transforms-3/04fcab9532b7e0044ffd36ca8ce5490c/transformed/jetified-android-plugin-offline-v9-1.0.0/AndroidManifest.xml:17:9-19:40
+78            android:name="com.mapbox.mapboxsdk.plugins.offline.offline.OfflineDownloadService"
+78-->[org.maplibre.gl:android-plugin-offline-v9:1.0.0] /Users/rojasj/.gradle/caches/transforms-3/04fcab9532b7e0044ffd36ca8ce5490c/transformed/jetified-android-plugin-offline-v9-1.0.0/AndroidManifest.xml:18:13-95
+79            android:exported="false" />
+79-->[org.maplibre.gl:android-plugin-offline-v9:1.0.0] /Users/rojasj/.gradle/caches/transforms-3/04fcab9532b7e0044ffd36ca8ce5490c/transformed/jetified-android-plugin-offline-v9-1.0.0/AndroidManifest.xml:19:13-37
+80
+81        <activity
+81-->[com.google.android.gms:play-services-base:16.0.1] /Users/rojasj/.gradle/caches/transforms-3/0fa25780c4b0544a95d92772cc6c810a/transformed/jetified-play-services-base-16.0.1/AndroidManifest.xml:23:9-26:75
+82            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+82-->[com.google.android.gms:play-services-base:16.0.1] /Users/rojasj/.gradle/caches/transforms-3/0fa25780c4b0544a95d92772cc6c810a/transformed/jetified-play-services-base-16.0.1/AndroidManifest.xml:24:13-79
+83            android:exported="false"
+83-->[com.google.android.gms:play-services-base:16.0.1] /Users/rojasj/.gradle/caches/transforms-3/0fa25780c4b0544a95d92772cc6c810a/transformed/jetified-play-services-base-16.0.1/AndroidManifest.xml:25:13-37
+84            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+84-->[com.google.android.gms:play-services-base:16.0.1] /Users/rojasj/.gradle/caches/transforms-3/0fa25780c4b0544a95d92772cc6c810a/transformed/jetified-play-services-base-16.0.1/AndroidManifest.xml:26:13-72
+85
+86        <meta-data
+86-->[com.google.android.gms:play-services-basement:16.0.1] /Users/rojasj/.gradle/caches/transforms-3/6700a4411102af0532eb807cc55b81bc/transformed/jetified-play-services-basement-16.0.1/AndroidManifest.xml:23:9-25:69
+87            android:name="com.google.android.gms.version"
+87-->[com.google.android.gms:play-services-basement:16.0.1] /Users/rojasj/.gradle/caches/transforms-3/6700a4411102af0532eb807cc55b81bc/transformed/jetified-play-services-basement-16.0.1/AndroidManifest.xml:24:13-58
+88            android:value="@integer/google_play_services_version" />
+88-->[com.google.android.gms:play-services-basement:16.0.1] /Users/rojasj/.gradle/caches/transforms-3/6700a4411102af0532eb807cc55b81bc/transformed/jetified-play-services-basement-16.0.1/AndroidManifest.xml:25:13-66
+89    </application>
+90
+91</manifest>

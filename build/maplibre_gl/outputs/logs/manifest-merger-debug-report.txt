@@ -1,0 +1,25 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/rojasj/development/flutter/.pub-cache/git/flutter-maplibre-gl-4bfc83eaf90a32eb44bde68bc0db47832493dead/android/src/main/AndroidManifest.xml:1:1-3:12
+INJECTED from /Users/rojasj/development/flutter/.pub-cache/git/flutter-maplibre-gl-4bfc83eaf90a32eb44bde68bc0db47832493dead/android/src/main/AndroidManifest.xml:1:1-3:12
+INJECTED from /Users/rojasj/development/flutter/.pub-cache/git/flutter-maplibre-gl-4bfc83eaf90a32eb44bde68bc0db47832493dead/android/src/main/AndroidManifest.xml:1:1-3:12
+	package
+		ADDED from /Users/rojasj/development/flutter/.pub-cache/git/flutter-maplibre-gl-4bfc83eaf90a32eb44bde68bc0db47832493dead/android/src/main/AndroidManifest.xml:2:3-32
+		INJECTED from /Users/rojasj/development/flutter/.pub-cache/git/flutter-maplibre-gl-4bfc83eaf90a32eb44bde68bc0db47832493dead/android/src/main/AndroidManifest.xml
+		INJECTED from /Users/rojasj/development/flutter/.pub-cache/git/flutter-maplibre-gl-4bfc83eaf90a32eb44bde68bc0db47832493dead/android/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/rojasj/development/flutter/.pub-cache/git/flutter-maplibre-gl-4bfc83eaf90a32eb44bde68bc0db47832493dead/android/src/main/AndroidManifest.xml:1:11-69
+uses-sdk
+INJECTED from /Users/rojasj/development/flutter/.pub-cache/git/flutter-maplibre-gl-4bfc83eaf90a32eb44bde68bc0db47832493dead/android/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/rojasj/development/flutter/.pub-cache/git/flutter-maplibre-gl-4bfc83eaf90a32eb44bde68bc0db47832493dead/android/src/main/AndroidManifest.xml
+INJECTED from /Users/rojasj/development/flutter/.pub-cache/git/flutter-maplibre-gl-4bfc83eaf90a32eb44bde68bc0db47832493dead/android/src/main/AndroidManifest.xml
+INJECTED from /Users/rojasj/development/flutter/.pub-cache/git/flutter-maplibre-gl-4bfc83eaf90a32eb44bde68bc0db47832493dead/android/src/main/AndroidManifest.xml
+INJECTED from /Users/rojasj/development/flutter/.pub-cache/git/flutter-maplibre-gl-4bfc83eaf90a32eb44bde68bc0db47832493dead/android/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/rojasj/development/flutter/.pub-cache/git/flutter-maplibre-gl-4bfc83eaf90a32eb44bde68bc0db47832493dead/android/src/main/AndroidManifest.xml
+		ADDED from /Users/rojasj/development/flutter/.pub-cache/git/flutter-maplibre-gl-4bfc83eaf90a32eb44bde68bc0db47832493dead/android/src/main/AndroidManifest.xml
+		INJECTED from /Users/rojasj/development/flutter/.pub-cache/git/flutter-maplibre-gl-4bfc83eaf90a32eb44bde68bc0db47832493dead/android/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/rojasj/development/flutter/.pub-cache/git/flutter-maplibre-gl-4bfc83eaf90a32eb44bde68bc0db47832493dead/android/src/main/AndroidManifest.xml
+		ADDED from /Users/rojasj/development/flutter/.pub-cache/git/flutter-maplibre-gl-4bfc83eaf90a32eb44bde68bc0db47832493dead/android/src/main/AndroidManifest.xml
+		INJECTED from /Users/rojasj/development/flutter/.pub-cache/git/flutter-maplibre-gl-4bfc83eaf90a32eb44bde68bc0db47832493dead/android/src/main/AndroidManifest.xml

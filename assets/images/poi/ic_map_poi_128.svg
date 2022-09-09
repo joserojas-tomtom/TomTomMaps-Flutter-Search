@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 44.1 (41455) - http://www.bohemiancoding.com/sketch -->
+    <title>svg/ic_map_poi_128</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Assets-white-32x32" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="ic_map_poi_128" fill="#ffffff">
+            <polygon id="Fill-1" points="12.938 28 16.938 28 16.938 23 12.938 23"></polygon>
+            <path d="M12.938,6 C12.938,4.896 13.833,4 14.938,4 C16.043,4 16.938,4.896 16.938,6 L12.938,6 Z" id="Fill-2"></path>
+            <polygon id="Fill-4" points="14.0505 15.0088 15.9495 15.0088 15.0155 12.2068"></polygon>
+            <path d="M16.8156,18 L16.2696,16.363 L13.6146,16.363 L13.0586,18 L11.0226,18 L13.5936,11 L16.3746,11 L18.9776,18 L16.8156,18 Z M29.1136,12.948 L23.5756,8.448 C23.2186,8.158 22.7736,8 22.3146,8 L5.0246,8 C3.9246,8 3.0246,8.9 3.0246,10 L3.0246,19 C3.0246,20.1 3.9246,21 5.0246,21 L22.3146,21 C22.7736,21 23.2186,20.842 23.5756,20.552 L29.1136,16.052 C30.0986,15.252 30.0986,13.748 29.1136,12.948 L29.1136,12.948 Z" id="Fill-6"></path>
+        </g>
+    </g>
+</svg>

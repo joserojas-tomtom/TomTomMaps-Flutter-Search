@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 43.2 (39069) - http://www.bohemiancoding.com/sketch -->
+    <title>svg/ic_map_poi_042</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Assets-white-32x32" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="ic_map_poi_042" fill="#ffffff">
+            <path d="M24.5,8 L7.5,8 C7.224,8 7,8.224 7,8.5 L7,10.5 C7,10.776 7.224,11 7.5,11 L8.85,11 L9,10 L8,10 L8,9 L24,9 L24,10 L23,10 L23.194,11 L24.5,11 C24.776,11 25,10.776 25,10.5 L25,8.5 C25,8.224 24.776,8 24.5,8" id="Fill-2"></path>
+            <path d="M21.0077,9.9995 L21.6677,16.0205 C20.6597,16.1235 19.8707,16.9645 19.8707,17.9995 L12.1207,17.9995 C12.1207,16.9665 11.3347,16.1265 10.3297,16.0205 L10.9857,9.9995 L9.9797,9.9995 L8.9997,18.9995 L22.9997,18.9995 L22.0137,9.9995 L21.0077,9.9995 Z" id="Fill-4"></path>
+            <path d="M19,10 L19,10 L13,10 L13,10 C13,11.035 14.343,11.873 16,11.873 C17.657,11.873 19,11.035 19,10" id="Fill-6"></path>
+            <path d="M21.4971,20 L21.6671,21.02 C20.6601,21.123 19.8711,21.965 19.8711,23 L12.1211,23 C12.1211,21.967 11.3351,21.127 10.3301,21.021 L10.4481,20 L9.4421,20 L9.0001,24 L23.0001,24 L22.5031,20 L21.4971,20 Z" id="Fill-8"></path>
+        </g>
+    </g>
+</svg>
