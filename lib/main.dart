@@ -58,7 +58,7 @@ class _AppState extends State<App> {
                 onTap: (context) async {
                   await showSearch(
                     context: context,
-                    delegate: LoctationSearchDelegate(
+                    delegate: LocationSearchDelegate(
                       apiKey: apiKey,
                       mapCenter: _mapCenter,
                       onSearchResults: _onSearchResults,

@@ -9,7 +9,7 @@ import '../models/suggestion.dart';
 import '../services/search_service.dart';
 import '../utils/icon_url.dart';
 
-class LoctationSearchDelegate extends SearchDelegate {
+class LocationSearchDelegate extends SearchDelegate {
   final SearchService searchService = SearchService();
   final String apiKey;
   final LatLng? mapCenter;
@@ -18,12 +18,12 @@ class LoctationSearchDelegate extends SearchDelegate {
 
   Completer<List> _completer = Completer();
   late final debouncer = Debouncer<String>(
-    const Duration(milliseconds: 500),
+    const Duration(milliseconds: 300),
     initialValue: '',
     onChanged: (value) => _completer.complete(_doQuery()),
   );
 
-  LoctationSearchDelegate({
+  LocationSearchDelegate({
     required this.apiKey,
     this.mapCenter,
     this.onSearchResults,
